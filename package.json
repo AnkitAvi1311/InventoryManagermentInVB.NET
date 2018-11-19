@@ -1,0 +1,11 @@
+{
+  "name": "marutiinventorysystem",
+  "version": "1.0.0",
+  "description": "Inventory management system for maruti cars and customers",
+  "main": "windowapp5",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
